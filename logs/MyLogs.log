@@ -2,3 +2,7 @@
 [ERROR] 2020-08-01 12:04:45.052 [main] Log4jDemo - This is error message
 [WARN ] 2020-08-01 12:04:45.053 [main] Log4jDemo - This is warning message
 [FATAL] 2020-08-01 12:04:45.053 [main] Log4jDemo - This is fatal message
+[INFO ] 2020-08-01 17:03:47.686 [main] Log4jDemo - This is information message
+[ERROR] 2020-08-01 17:03:47.688 [main] Log4jDemo - This is error message
+[WARN ] 2020-08-01 17:03:47.688 [main] Log4jDemo - This is warning message
+[FATAL] 2020-08-01 17:03:47.688 [main] Log4jDemo - This is fatal message
