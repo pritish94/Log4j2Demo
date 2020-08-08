@@ -14,3 +14,7 @@
 [ERROR] 2020-08-02 19:56:32.496 [main] Log4jDemo - This is error message
 [WARN ] 2020-08-02 19:56:32.496 [main] Log4jDemo - This is warning message
 [FATAL] 2020-08-02 19:56:32.496 [main] Log4jDemo - This is fatal message
+[INFO ] 2020-08-08 21:13:59.200 [main] Log4jDemo - This is information message
+[ERROR] 2020-08-08 21:13:59.209 [main] Log4jDemo - This is error message
+[WARN ] 2020-08-08 21:13:59.209 [main] Log4jDemo - This is warning message
+[FATAL] 2020-08-08 21:13:59.210 [main] Log4jDemo - This is fatal message
